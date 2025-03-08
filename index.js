@@ -1,7 +1,6 @@
 
 const { Client, GatewayIntentBits, Partials, PermissionFlagsBits } = require('discord.js');
 
-const keep_alive = require('./keep_alive.js')
 // Create a new client instance
 const client = new Client({
   intents: [
