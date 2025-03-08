@@ -1,0 +1,13 @@
+{
+  "name": "discord-one-word-story-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that creates one-word story channels",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
